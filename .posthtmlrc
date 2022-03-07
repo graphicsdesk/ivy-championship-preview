@@ -72,6 +72,7 @@
         "byline": "By <a href=\"https://www.columbiaspectator.com/contributors/Adam-Lang/\">Adam Lang</a>",
         "cover_asset": "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/4WCB447BHVF7JKZGUNRBEVBXMY.jpg",
         "cover_caption": "Photo by Kathy Fang",
+        "footer": "<b>Methodology</b>\nPossessions (POSS) were calculated using the formula POSS = (FGA-OREB) + TO + 0.44*(FTA), in which FGA = field goals attempted, OREB = offensive rebounds, TO = turnovers, and FTA = free throws attempted. The constant 0.44, which adjusts for the variable number of free throws that can result from one possession (and-ones and one-and-ones resulting in one free throw, a regular two-free throw trip, or three free throws resulting from a foul on a 3-point shot), was grabbed from <a href=\"https://kenpom.com/blog/the-possession/\">Ken Pomeroy</a>.\nThe league average offensive rating was 87.30, while the league average defensive rating was 86.88.\nCheck out the data analysis at our <a href=\"https://github.com/graphicsdesk/ivy-championship-preview\">repository.</a>",
         "USE_NEWS_NAV": true,
         "USE_EYE_NAV": false,
         "USE_COVER_HED": true,
