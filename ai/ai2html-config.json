@@ -9,6 +9,30 @@
       "style": ""
     },
     {
+      "aifont": "Bahnschrift-SemiLight",
+      "family": "Bahnschrift",
+      "weight": "300",
+      "style": ""
+    },
+    {
+      "aifont": "Bahnschrift-SemiBold",
+      "family": "Bahnschrift",
+      "weight": "600",
+      "style": ""
+    },
+    {
+      "aifont": "Bahnschrift",
+      "family": "Bahnschrift",
+      "weight": "400",
+      "style": ""
+    },
+    {
+      "aifont": "Bahnschrift-Bold",
+      "family": "Bahnschrift",
+      "weight": "700",
+      "style": ""
+    },
+    {
       "aifont": "Roboto-Bold",
       "family": "Roboto,arial,helvetica,sans-serif",
       "weight": "700",
